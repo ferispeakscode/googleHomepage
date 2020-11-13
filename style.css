@@ -1,3 +1,4 @@
+
 .logo {
     display: block;
     margin: auto;
@@ -42,44 +43,20 @@ a:hover button {
 
 @media only screen and (max-width: 600px) {
     .logo {
-        display: block;
-        margin: auto;
         width: 60%;
-        margin-top: 200px;
     }
     
     .search {
-        display: block;
-        margin: auto;
         width: 84%;
-        margin-top: 20px;
-        margin-bottom: 30px;
-        padding: 10px;
-        border-radius: 20px;
-        font-size: 16px;
-        border: 1px solid #DBDBDB;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .logo {
+        width: 45%;
     }
     
-    .buttonGroup {
-        display: block;
-        margin: auto;
-        text-align: center;
+    .search {
+        width: 74%;
     }
-    
-    button {
-        padding: 10px;
-        padding-left: 15px;
-        padding-right: 15px;
-        margin: 4px;
-        border-radius: 5px;
-        background-color :#F7F7F7;
-        border: solid 1px #F7F7F7;
-        color: #383838;
-        font-size: 15px;
-    }
-    
-    a:hover button {
-        border: solid 1px #DBDBDB;
-        box-shadow: 0px 1px 2px #E0E0E0;
-    } 
 }
