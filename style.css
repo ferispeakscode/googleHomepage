@@ -2,7 +2,7 @@
 .logo {
     display: block;
     margin: auto;
-    width: 20%;
+    width: 300px;
     margin-top: 200px;
 }
 
@@ -42,20 +42,12 @@ a:hover button {
 } 
 
 @media only screen and (max-width: 600px) {
-    .logo {
-        width: 60%;
-    }
-    
     .search {
         width: 84%;
     }
 }
 
 @media only screen and (min-width: 600px) {
-    .logo {
-        width: 45%;
-    }
-    
     .search {
         width: 74%;
     }
