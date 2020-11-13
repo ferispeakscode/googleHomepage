@@ -10,11 +10,14 @@
     margin: auto;
     width: 30%;
     margin-top: 20px;
+    margin-bottom: 20px;
     padding: 10px;
     border-radius: 20px;
     font-size: 16px;
 }
 
 .buttonGroup {
-    
+    display: block;
+    margin: auto;
+    text-align: center;
 }
