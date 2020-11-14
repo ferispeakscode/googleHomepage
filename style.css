@@ -1,7 +1,9 @@
-.navbar {
+.navbar ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .navbar-left {
