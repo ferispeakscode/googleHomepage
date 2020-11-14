@@ -5,11 +5,19 @@
 }
 
 .navbar-left {
+    display: block;
     float: left;
 }
 
 .navbar-right {
+    display: block;
     float: right;
+}
+
+.navbar a {
+    padding: 8px;
+    text-decoration: none;
+    color: #383838;
 }
 
 .logo {
