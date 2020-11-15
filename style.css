@@ -1,4 +1,4 @@
-.navbar ul {
+#navbar ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
@@ -16,15 +16,20 @@
     float: right;
 }
 
-.navbar a {
+#navbar a {
     padding: 8px;
     text-decoration: none;
     color: #383838;
 }
 
-.logo {
+#main {
     display: block;
     margin: auto;
+}
+
+.logo {
+    /* display: block; */
+    /* margin: auto; */
     width: 300px;
     margin-top: 200px;
 }
