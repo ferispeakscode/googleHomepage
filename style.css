@@ -23,15 +23,15 @@
 }
 
 #main {
-    display: block;
-    margin: auto;
+    clear: both;
+    padding-top: 150px;
 }
 
 .logo {
-    /* display: block; */
-    /* margin: auto; */
+    clear: both;
+    display: block;
+    margin: auto;
     width: 300px;
-    margin-top: 200px;
 }
 
 .search {
