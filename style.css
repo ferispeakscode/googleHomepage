@@ -40,13 +40,13 @@
     color: #6B6B6B;
 }
 
-.navbar-left {
+.float-left {
     display: block;
     float: left;
     margin-top: 16px;
 }
 
-.navbar-right {
+.float-right {
     display: block;
     float: right;
     margin-top: 16px;
