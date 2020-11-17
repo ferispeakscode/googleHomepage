@@ -104,17 +104,15 @@ a:hover button {
     }
 
     #footer {
-        height: 100px;
+        height: 90px;
     }
 
     .footer-left {
         display: inline;
-        margin-top: 16px;
     }
     
     .footer-right {
         display: inline;
-        margin-top: 16px;
     }
 
     .footer-firstRow {
