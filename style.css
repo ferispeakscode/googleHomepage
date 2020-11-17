@@ -39,13 +39,13 @@
     color: #6B6B6B;
 }
 
-.float-left {
+.float-left, .footer-left {
     display: block;
     float: left;
     margin-top: 16px;
 }
 
-.float-right {
+.float-right, .footer-right {
     display: block;
     float: right;
     margin-top: 16px;
@@ -105,5 +105,25 @@ a:hover button {
 
     #footer {
         height: 100px;
+    }
+
+    .footer-left {
+        display: inline;
+        margin-top: 16px;
+    }
+    
+    .footer-right {
+        display: inline;
+        margin-top: 16px;
+    }
+
+    .footer-firstRow {
+        margin: auto;
+        width: 80%;
+    }
+
+    .footer-secondRow {
+        margin: auto;
+        width: 55%;
     }
 }
