@@ -119,11 +119,11 @@ a:hover button {
 
     .footer-firstRow {
         margin: auto;
-        width: 80%;
+        width: 55%;
     }
 
     .footer-secondRow {
         margin: auto;
-        width: 55%;
+        width: 80%;
     }
 }
