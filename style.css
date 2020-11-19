@@ -127,8 +127,17 @@ a:hover button {
 }
 
 .user {
-    height: 50px;
-    width: 50px;
+    padding: 0;
+    margin: 0;
+}
+
+.user-circle {
+    height: 40px;
+    width: 40px;
     border-radius: 100px;
-    background-color: #ffcb3b;
+    background-color: #397fc4;
+    color: #fff;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
 }
