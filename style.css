@@ -125,3 +125,10 @@ a:hover button {
         width: 80%;
     }
 }
+
+.user {
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    background-color: #ffcb3b;
+}
