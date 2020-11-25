@@ -1,5 +1,5 @@
 #navbar {
-    width: 520px;
+    width: 670px;
     margin-left: 150px;
 }
 
@@ -58,7 +58,8 @@
 
 .search-header {
     height: 100px;
-    background-color: #DDD;
+    background-color: #EEE;
+    border-bottom: solid 1px #DDD;
 }
 
 .search-logo {
@@ -69,7 +70,7 @@
 }
 
 .search {
-    width: 500px;
+    width: 660px;
     padding: 10px;
     margin-left: 12px;
     border-radius: 20px;
@@ -79,4 +80,5 @@
 
 #search-findings {
     margin-left: 170px;
+    width: 660px;
 }
