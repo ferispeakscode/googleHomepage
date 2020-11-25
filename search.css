@@ -1,3 +1,7 @@
+#navbar {
+    width: 520px;
+    margin-left: 150px;
+}
 
 #navbar ul {
     list-style-type: none;
