@@ -81,4 +81,15 @@
 #search-findings {
     margin-left: 170px;
     width: 660px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+#search-findings a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+.site-head {
+    font-size: 20px;
 }
