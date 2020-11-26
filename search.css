@@ -87,9 +87,21 @@
 
 #search-findings a {
     text-decoration: none;
-    color: darkblue;
+    color:#1329a8;
+}
+
+.site-address {
+    color: grey;
 }
 
 .site-head {
     font-size: 20px;
+}
+
+.site-description {
+    color: grey;
+}
+
+.site-links {
+
 }
