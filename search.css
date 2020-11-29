@@ -82,6 +82,7 @@
 }
 
 #search-findings {
+    clear: both;
     margin-left: 170px;
     width: 660px;
     font-family: Arial, Helvetica, sans-serif;
@@ -106,5 +107,9 @@
 }
 
 .site-links {
+
+}
+
+.num-results {
 
 }
