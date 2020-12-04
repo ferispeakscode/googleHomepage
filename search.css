@@ -115,19 +115,21 @@
 }
 
 .accordion {
-    background-color: #eee;
+    background-color: #FFF;
+    border: solid 1px #EEE;
     color: #444;
     cursor: pointer;
     padding: 18px;
     width: 100%;
     text-align: left;
-    border: none;
     outline: none;
     transition: 0.4s;
 }
 
 .accordion-head {
     font-size: 18px;
+    background-color: #FFF;
+    border: solid 1px #EEE;
 }
 
 .panel {
