@@ -114,9 +114,13 @@
 
 }
 
-.accordion {
-    background-color: #FFF;
+.accordion-frame {
     border: solid 1px #EEE;
+}
+
+.accordion {
+    border: solid 1px #EEE;
+    background-color: #FFF;
     color: #444;
     cursor: pointer;
     padding: 18px;
@@ -128,8 +132,6 @@
 
 .accordion-head {
     font-size: 18px;
-    background-color: #FFF;
-    border: solid 1px #EEE;
 }
 
 .panel {
