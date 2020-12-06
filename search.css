@@ -72,7 +72,6 @@
 
 .search-header {
     height: 110px;
-    /* background-color: #EEE; */
     border-bottom: solid 1px #DDD;
 }
 
@@ -147,16 +146,9 @@
     color: grey;
 }
 
-.site-links {
-
-}
-
-.num-results {
-
-}
-
 .accordion-frame {
     border: solid 1px #EEE;
+    border-radius: 20px;
 }
 
 .accordion {
