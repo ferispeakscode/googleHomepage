@@ -1,5 +1,6 @@
 #navbar {
     width: 670px;
+    height: 40px;
     margin-left: 150px;
 }
 
@@ -60,7 +61,7 @@
 }
 
 .search-header {
-    height: 100px;
+    height: 140px;
     background-color: #EEE;
     border-bottom: solid 1px #DDD;
 }
