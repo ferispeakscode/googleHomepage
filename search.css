@@ -149,6 +149,8 @@
 .accordion-frame {
     border: solid 1px #EEE;
     border-radius: 20px;
+    margin: 10px;
+    margin-bottom: 20px;
 }
 
 .accordion {
